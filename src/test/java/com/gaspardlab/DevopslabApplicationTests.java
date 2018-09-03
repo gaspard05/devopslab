@@ -1,4 +1,4 @@
-package com.gaspardlab.devopslab;
+package com.gaspardlab;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
